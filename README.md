@@ -5,12 +5,17 @@ ReCare is a comprehensive AI project aimed at streamlining and enhancing healthc
 ## FEATURES
 
 -> Intelligent analysis of patient reports to identify and handle potential hospital readmissions 
+
 -> Appointment scheduling and tracking  
+
 -> Analytics and reporting dashboard  
 
 ## How it works
 
 -> Users register as patients, doctors, or administrators  
+
 -> Patients can book appointments and view medical records  
+
 -> Doctors manage appointments, access patient data, and update treatment records  
+
 -> The system analyzes patient reports and medical histories to predict and flag high-risk readmissions, aiding clinicians in proactive care  
