@@ -1,6 +1,6 @@
-# ReCare
+# ReCare AI
 
-ReCare is a comprehensive project aimed at streamlining and enhancing healthcare management. It provides a suite of tools and features designed to assist healthcare professionals, patients, and administrators in maintaining efficient, secure, and organized healthcare records and processes.
+ReCare is a comprehensive AI project aimed at streamlining and enhancing healthcare management. It provides a suite of tools and features designed to assist healthcare professionals, patients, and administrators in maintaining efficient, secure, and organized healthcare records and processes.
 
 ## FEATURES
 
